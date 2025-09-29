@@ -100,6 +100,15 @@ Un fichier modèle **`appsettings.json`** est fourni comme **template** (copiez-
 
 ---
 
+## 📥 Téléchargement et installation
+
+- Téléchargez la dernière release ici : [CV Report Releases](https://github.com/plumedours/CVReport/releases)  
+- Extrayez l'archive `.zip` dans le dossier de votre choix.  
+- (Optionnel) Ajoutez une exclusion antivirus si nécessaire.  
+- Lancez **CVReport.exe** pour démarrer l'application.
+
+---
+
 ## 🧱 Construction & Publication
 
 ### Depuis les sources
@@ -217,6 +226,15 @@ A **template** file is provided as **`appsettings.json`** (copy → `appsettings
   <a href="Resources/en03.png"><img src="Resources/en03.png" width="200"/></a>
   <a href="Resources/en04.png"><img src="Resources/en04.png" width="200"/></a>
 </p>
+
+---
+
+## 📥 Download and installation
+
+- Download the latest release here: [CV Report Releases](https://github.com/plumedours/CVReport/releases)  
+- Extract the `.zip` archive to a folder of your choice.  
+- (Optional) Add an antivirus exclusion if required.  
+- Run **CVReport.exe** to start the application.
 
 ---
 
