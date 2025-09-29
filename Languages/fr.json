@@ -1,0 +1,99 @@
+{
+  "menu.file": "Fichier",
+  "menu.file.about": "À propos",
+  "menu.file.help": "Aide",
+  "menu.file.exit": "Quitter",
+
+  "menu.reports": "Rapports",
+  "menu.reports.materials": "Sommaire des matériaux",
+  "menu.reports.cabinets": "Sommaire par cabinet",
+  "menu.reports.soumission": "Soumission",
+
+  "menu.language": "Langue",
+  "menu.language.french": "Français",
+  "menu.language.english": "Anglais",
+  "menu.language.add": "Ajouter une traduction…",
+
+  "main.title": "CV Report - Générateur de rapports Cabinet Vision",
+  "main.subtitle.info": "D'autres rapports seront ajoutés bientôt...",
+  "main.footer": "CV Report - v.{0} - © 2025 Maxime Bory",
+  "main.about.tooltip": "À propos",
+
+  "main.title.project": "Rapport pour le projet {0}",
+  "main.title.noProject": "Rapport pour le projet (aucun projet)",
+  "main.title.error": "Rapport pour le projet (erreur)",
+  "main.title.loading": "Rapport pour le projet (chargement...)",
+
+  "main.print": "Imprimer",
+  "main.exportPdf": "Exporter PDF",
+  "main.expandAll": "Tout déplier",
+
+  "btn.load.materials": "Sommaire des matériaux",
+  "btn.load.cabinets": "Sommaire par cabinets",
+  "btn.load.soumission": "Soumission (bêta)",
+
+  "report.byCabinets.title": "Rapport CV — Sommaire par cabinet",
+  "report.byCabinets.expandAll": "Tout déplier",
+  "report.byCabinets.collapseAll": "Tout replier",
+  "report.byCabinets.kind": "Rapport par cabinet",
+
+  "report.materials.title": "Rapport CV — Sommaire des matériaux",
+  "report.materials.kind": "Rapport des matériaux",
+
+  "report.soumission.title": "CV Report — Soumission",
+  "report.soumission.kind": "Soumission",
+  "report.soumission.btn.panels": "Liste des panneaux",
+  "report.soumission.btn.doors": "Liste des portes",
+  "report.soumission.btn.drawers": "Liste des coulisses",
+  "report.soumission.btn.pulls": "Liste des poignées",
+  "report.soumission.panels.title": "CV Report — Soumission (Panneaux : {0} matières)",
+  "report.soumission.doors.title": "CV Report — Soumission (Portes)",
+  "report.soumission.drawers.title": "CV Report — Soumission (Coulisses)",
+  "report.soumission.pulls.title": "CV Report — Soumission (Poignées)",
+
+  "col.cabinetId": "Cabinet ID",
+  "col.materialId": "Material ID",
+  "col.partDescription": "Description",
+  "col.materialName": "Nom du matériel",
+  "col.quantity": "Quantité",
+  "col.totalSqft": "Pi² total",
+  "col.realSheets": "Qté feuille réelle",
+  "col.roundedSheets": "Qté feuille arrondie",
+
+  "unit.sheets": "feuilles",
+  "unit.sqft": "pi²",
+  "unit.lft": "pi.l.",
+  "unit.each": "pc",
+
+  "status.loading": "Chargement en cours…",
+  "status.loaded.materials": "Matériaux chargés.",
+  "status.loaded.cabinets": "Cabinets chargés.",
+  "status.loaded.soumission.panneaux": "Panneaux chargés.",
+  "status.loaded.soumission.portes": "Portes chargées.",
+
+  "dlg.about.title": "À propos de CV Report",
+  "dlg.exit.confirm": "Voulez-vous vraiment quitter ?",
+
+  "about.title": "À propos de CV Report",
+  "about.version": "Version : {0}",
+  "about.author": "Auteur : Maxime Bory",
+
+  "help.title": "Aide",
+  "help.intro": "Cette application produit des rapports clairs et imprimables à partir de vos données Cabinet Vision...",
+  "help.reports.available": "Rapports disponibles :",
+  "help.reports.byCabinet": "• Sommaire par cabinet : Affiche la liste des cabinets et leurs matériaux.",
+  "help.reports.materials": "• Sommaire des matériaux : Agrège automatiquement les quantités par unité.",
+  "help.reports.soumission": "• Soumission : Génère les listes Panneaux, Portes, Coulisses, Poignées... afin de faciliter le calcul des quantités.",
+  "help.usageTitle": "Comment utiliser l'application :",
+  "help.usage": "1. Ouvrez votre projet dans Cabinet Vision\n2. Cliquez sur l’onglet « Rapport »\n3. Cliquez sur Centre de devis\n4. Ouvrez CV Report et cliquez sur l’un des boutons de rapport\n5. Imprimez ou exportez en PDF le rapport généré.",
+  "help.prereqTitle": "Pré-requis :",
+  "help.prereq": "1. Cabinet Vision 2024 minimum\n2. Un login (ex. 'reporting') doit être créé dans la base de données et paramétré dans appsettings.Development.json.",
+
+  "btn_ok": "OK",
+  "btn_cancel": "Annuler",
+  "form_translation_title": "Ajouter une traduction",
+  "label_lang_code": "Code langue (ex: fr, en, es):",
+  "btn_save": "Enregistrer",
+  "msg_enter_lang_code": "Veuillez entrer un code de langue.",
+  "msg_translation_saved": "Traduction {0} sauvegardée."
+}

@@ -1,0 +1,99 @@
+{
+  "menu.file": "File",
+  "menu.file.about": "About",
+  "menu.file.help": "Help",
+  "menu.file.exit": "Exit",
+
+  "menu.reports": "Reports",
+  "menu.reports.materials": "Materials summary",
+  "menu.reports.cabinets": "Summary by cabinet",
+  "menu.reports.soumission": "Submission (beta)",
+
+  "menu.language": "Language",
+  "menu.language.french": "French",
+  "menu.language.english": "English",
+  "menu.language.add": "Add a translation…",
+
+  "main.title": "CV Report - Cabinet Vision Report Generator",
+  "main.subtitle.info": "More reports will be added soon...",
+  "main.footer": "CV Report - v.{0} - © 2025 Maxime Bory",
+  "main.about.tooltip": "About",
+
+  "main.title.project": "Report for project {0}",
+  "main.title.noProject": "Report for project (no project)",
+  "main.title.error": "Report for project (error)",
+  "main.title.loading": "Report for project (loading...)",
+
+  "main.print": "Print",
+  "main.exportPdf": "Export PDF",
+  "main.expandAll": "Expand All",
+
+  "btn.load.materials": "Materials summary",
+  "btn.load.cabinets": "Summary by cabinet",
+  "btn.load.soumission": "Submission (beta)",
+
+  "report.byCabinets.title": "CV Report — By Cabinet Summary",
+  "report.byCabinets.expandAll": "Expand All",
+  "report.byCabinets.collapseAll": "Collapse All",
+  "report.byCabinets.kind": "Report by cabinet",
+
+  "report.materials.title": "CV Report — Materials Summary",
+  "report.materials.kind": "Materials Report",
+
+  "report.soumission.title": "CV Report — Submission",
+  "report.soumission.kind": "Submission",
+  "report.soumission.btn.panels": "Panels List",
+  "report.soumission.btn.doors": "Doors List",
+  "report.soumission.btn.drawers": "Drawers List",
+  "report.soumission.btn.pulls": "Pulls List",
+  "report.soumission.panels.title": "CV Report — Submission (Panels: {0} items)",
+  "report.soumission.doors.title": "CV Report — Submission (Doors)",
+  "report.soumission.drawers.title": "CV Report — Submission (Drawers)",
+  "report.soumission.pulls.title": "CV Report — Submission (Pulls)",
+
+  "col.cabinetId": "Cabinet ID",
+  "col.materialId": "Material ID",
+  "col.partDescription": "Description",
+  "col.materialName": "Material Name",
+  "col.quantity": "Quantity",
+  "col.totalSqft": "Total SqFt",
+  "col.realSheets": "Real Sheets",
+  "col.roundedSheets": "Rounded Sheets",
+
+  "unit.sheets": "sheets",
+  "unit.sqft": "sqft",
+  "unit.lft": "lin.ft",
+  "unit.each": "pcs",
+
+  "status.loading": "Loading…",
+  "status.loaded.materials": "Materials loaded.",
+  "status.loaded.cabinets": "Cabinets loaded.",
+  "status.loaded.soumission.panneaux": "Panels loaded.",
+  "status.loaded.soumission.portes": "Doors loaded.",
+
+  "dlg.about.title": "About CV Report",
+  "dlg.exit.confirm": "Are you sure you want to exit?",
+
+  "about.title": "About CV Report",
+  "about.version": "Version: {0}",
+  "about.author": "Author: Maxime Bory",
+
+  "help.title": "Help",
+  "help.intro": "This application produces clear, printable reports based on your Cabinet Vision data...",
+  "help.reports.available": "Available reports:",
+  "help.reports.byCabinet": "• By Cabinet Summary: Displays the list of cabinets and their materials.",
+  "help.reports.materials": "• Materials Summary: Automatically aggregates quantities by unit.",
+  "help.reports.soumission": "• Submission: Generates the Panels, Doors, Drawers, Pulls... lists to facilitate quantity calculation.",
+  "help.usageTitle": "How to use the application:",
+  "help.usage": "1. Open your project in Cabinet Vision\n2. Click on the 'Report' tab\n3. Click on Quote Center\n4. Open CV Report and click one of the report buttons\n5. Print or export the generated report to PDF.",
+  "help.prereqTitle": "Prerequisites:",
+  "help.prereq": "1. Cabinet Vision 2024 or later\n2. A 'reporting' login must be created in the database.",
+
+  "btn_ok": "OK",
+  "btn_cancel": "Cancel",
+  "form_translation_title": "Add a translation",
+  "label_lang_code": "Language code (eg: fr, en, es):",
+  "btn_save": "Save",
+  "msg_enter_lang_code": "Please enter a language code.",
+  "msg_translation_saved": "Translation {0} saved."
+}
