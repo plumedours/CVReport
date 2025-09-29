@@ -50,8 +50,8 @@ Un fichier modèle **`appsettings.json`** est fourni comme **template** (copiez-
     "MainServerTemplate": "Server={MACHINE}\\CV24;Database=CVData;Integrated Security=True;MultipleActiveResultSets=True;TrustServerCertificate=True;Connect Timeout=30",
 
     "MainServerSqlAuth": {
-      "User": "reporting",
-      "Password": "ebrl146"
+      "User": "LOGIN",
+      "Password": "PASS"
     }
   },
   "ActiveConnectionString": "ReportDb_ByAttach",
@@ -170,8 +170,8 @@ A **template** file is provided as **`appsettings.json`** (copy → `appsettings
     "MainServerTemplate": "Server={MACHINE}\\CV24;Database=CVData;Integrated Security=True;MultipleActiveResultSets=True;TrustServerCertificate=True;Connect Timeout=30",
 
     "MainServerSqlAuth": {
-      "User": "reporting",
-      "Password": "ebrl146"
+      "User": "LOGIN",
+      "Password": "PASS"
     }
   },
   "ActiveConnectionString": "ReportDb_ByAttach",
