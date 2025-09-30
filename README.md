@@ -127,7 +127,14 @@ Un fichier modèle **`appsettings.json`** est fourni comme **template** (copiez-
 ---
 
 ## 👤 Auteur
-**Maxime Bory** — retours et suggestions bienvenus.
+Développé par **Maxime Bory** — retours et suggestions bienvenus.
+GitHub : [https://github.com/plumedours](https://github.com/plumedours)  
+
+---
+
+### 💖 Me soutenir
+Appréciez-vous mon travail ? Vous pouvez m’encourager en [m’offrant un café sur Ko-fi](https://ko-fi.com/borymaxime).
+Merci beaucoup pour votre soutien ! ☕✨
 
 ---
 
@@ -256,4 +263,11 @@ A **template** file is provided as **`appsettings.json`** (copy → `appsettings
 ---
 
 ## 👤 Author
-**Maxime Bory** — feedback and contributions are welcome.****
+Developed by **Maxime Bory** — feedback and contributions are welcome.
+GitHub: [https://github.com/plumedours](https://github.com/plumedours)  
+
+---
+
+### 💖 Support me
+Enjoying my work? You can support me by [buying me a coffee on Ko-fi](https://ko-fi.com/borymaxime).
+Thank you so much for your support! ☕✨
